@@ -8,12 +8,10 @@
 <p align="center">
 <a href="https://github.com/openboard-team/openboard/releases"><img src="https://img.shields.io/github/v/release/openboard-team/openboard" alt="GitHub release (latest by date)"></a>
 <a href="https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin"><img alt="F-Droid Version" src="https://img.shields.io/f-droid/v/org.dslul.openboard.inputmethod.latin?color=green&amp;logo=f-droid"></a>
-<a href="https://play.google.com/store/apps/details?id=org.dslul.openboard.inputmethod.latin"><img alt="Google Play Version" src="https://img.shields.io/endpoint?logo=google-play&amp;url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dorg.dslul.openboard.inputmethod.latin%26l%3Dgoogle-play%26m%3D%24version"></a>
 <a href="https://github.com/openboard-team/openboard/releases"><img src="https://img.shields.io/github/release-date/openboard-team/openboard" alt="GitHub Release Date"></a>
 <a href="https://github.com/openboard-team/openboard/commits/master"><img src="https://img.shields.io/github/commits-since/openboard-team/openboard/latest" alt="GitHub commits since latest release (by date)"></a></p>
 <p align="center">
 <a href='https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin'><img src='https://fdroid.gitlab.io/artwork/badge/get-it-on.png' alt='Get it on F-Droid' height='60'></a>
-<a href='https://play.google.com/store/apps/details?id=org.dslul.openboard.inputmethod.latin&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height='60'/></a></p>  
 
 # Table of content
 
